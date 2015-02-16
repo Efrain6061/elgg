@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Owner Followers Counter</name>
+	<author>Efraín J. Valentín</author>
+	<version>1.9</version>
+	<id>owner_followers_counter</id>
+	<description>This plugin creates an item in profile showing the number of followers, the number of people you follow and the number of blogs that you've published.</description>
+	<website>http://www.fbla-apr.hol.es</website>
+	<copyright>(C) Efrain Software 2015</copyright>
+	<license>GNU Public License version 2</license>
+ 	
+ 	<requires>
+		<type>elgg_release</type>
+		<version>1.9</version>
+	</requires>
+	
+ 	<category>themes</category>
+</plugin_manifest>
